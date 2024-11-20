@@ -1,0 +1,17 @@
+{
+    "name": "straight-contact-test",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "author": "Yuriy Bodolanov",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "express": "^4.21.1",
+        "jsonwebtoken": "^9.0.2",
+        "mongoose": "^8.8.2",
+        "nodemon": "^3.1.7"
+    }
+}
